@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "revsion"
+    }
+  },
+  "defaultProject": "revsion",
+  "cli": {
+    "analytics": false
+  }
 }
